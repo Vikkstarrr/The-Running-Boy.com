@@ -1,5 +1,5 @@
 function welcome() {
-    alert("The Running Boy\n2D Web Game\nDeveloped for Java Institute for Advanced Technology Selection and Scholarship Program\nCreated By Vikash R. Egodage");
+    alert("The Running Boy\n2D Web Game created using HTML, CSS and JS\nDeveloped By Vikash R. Egodage");
 
     alert("Press the ENTER Key to START the game.\nAvoid the flames by jumping.\nTo JUMP press the SPACEBAR.");
 }
